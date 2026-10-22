@@ -299,7 +299,6 @@ The regression section models monthly revenue against month number and includes 
 6. Review **What-If & Regression** to compare scenarios and inspect the regression outputs.
 7. Finish with the **Final Report** for the summarized insights and recommendations.
 
-> ℹ️ Microsoft Excel is recommended. Some formulas, chart features, and interactive controls may display or behave differently in other spreadsheet applications.
 
 ---
 
